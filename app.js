@@ -1,2 +1,2 @@
-
-alert("this works")
+var username = prompt("Write username")
+alert("this works btw hey " + username)
